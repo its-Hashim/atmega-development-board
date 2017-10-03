@@ -1,0 +1,260 @@
+Netlist
+
+Exported from untitled.brd at 10/3/2017 11:45 AM
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Net      Part             Pad
+
+GND      C1               2
+         C2               1
+         C3               2
+         C4               -
+         C5               -
+         IC2              11
+         IC2              31
+         IC3              2
+         J1               GND
+         J1               GNDBREAK
+         JP2              1
+         JP5              1
+         JP6              14
+         LCDDATA          6
+         LCDNIBBLE        1
+         LED1             K
+         LED2             K
+         R1               1
+         R10              1
+         R2               1
+         R3               1
+         R31              A
+         R32              E
+         R33              1
+         R38              1
+         R4               1
+         R5               1
+         R6               1
+         R7               1
+         R8               1
+         R9               1
+         RESET_SWITCH     3
+         RESET_SWITCH     4
+         SG1              -
+
+LCD      LCDNIBBLE        2
+         R32              S
+
+LM1      IC12             6
+         R1               2
+
+LM2      IC12             2
+         R2               2
+
+LM3      IC12             13
+         R3               2
+
+LM4      IC12             9
+         R4               2
+
+LM5      IC1              6
+         R5               2
+
+LM6      IC1              2
+         R6               2
+
+LM7      IC1              13
+         R7               2
+
+LM8      IC1              9
+         R8               2
+
+LM9      IC4              6
+         R9               2
+
+LM10     IC4              2
+         R10              2
+
+LM11     IC4              13
+         R38              2
+
+LM12     IC4              9
+         R33              2
+
+N$2      IC2              9
+         JP1              1
+         RESET_RESISTENCE 2
+         RESET_SWITCH     1
+         RESET_SWITCH     2
+
+N$4      IC1              10
+         JP6              8
+
+N$5      C1               1
+         IC2              12
+         Q1               1
+
+N$6      C2               2
+         IC2              13
+         Q1               2
+
+N$8      IC2              15
+         LCDDATA          1
+
+N$9      IC2              16
+         LCDDATA          2
+
+N$10     IC2              17
+         LCDDATA          3
+
+N$11     IC12             12
+         JP6              3
+
+N$13     IC12             10
+         JP6              4
+
+N$14     IC12             5
+         JP6              1
+
+N$15     IC12             3
+         JP6              2
+
+N$16     IC4              12
+         JP6              11
+
+N$19     C5               +
+         IC3              1
+         J1               PWR
+
+N$20     JP8              1
+         R31              S
+
+N$22     LED1             A
+         R37              2
+
+N$23     IC2              1
+         SG1              +
+
+N$26     IC2              2
+         LED2             A
+
+N$31     IC4              10
+         JP6              12
+
+N$33     IC1              3
+         JP6              6
+
+N$35     IC1              5
+         JP6              5
+
+N$39     IC1              12
+         JP6              7
+
+N$41     IC4              3
+         JP6              10
+
+N$43     IC4              5
+         JP6              9
+
+PA0      IC2              40
+         JP4              1
+
+PA1      IC12             7
+         IC2              39
+
+PA2      IC12             1
+         IC2              38
+
+PA3      IC12             14
+         IC2              37
+
+PA4      IC12             8
+         IC2              36
+
+PA5      IC1              7
+         IC2              35
+
+PA6      IC1              1
+         IC2              34
+
+PA7      IC1              14
+         IC2              33
+
+PB3      IC2              4
+         JP9              4
+
+PB4      IC2              5
+         JP5              6
+         LCDNIBBLE        6
+
+PB5      IC2              6
+         JP5              5
+         LCDNIBBLE        5
+
+PB6      IC2              7
+         JP5              4
+         LCDNIBBLE        4
+
+PB7      IC2              8
+         JP5              3
+         LCDNIBBLE        3
+
+PC3      IC2              25
+         IC4              8
+
+PC4      IC2              26
+         IC4              14
+
+PC5      IC2              27
+         IC4              1
+
+PC6      IC2              28
+         IC4              7
+
+PC7      IC1              8
+         IC2              29
+
+PD4      IC2              18
+         JP9              1
+
+PD5      IC2              19
+         JP9              3
+
+PD6      IC2              20
+
+PD7      IC2              21
+         JP9              2
+
+V+       IC1              4
+         IC12             4
+         IC4              4
+
+V-       IC1              11
+         IC12             11
+         IC4              11
+
+VCC      C3               1
+         C4               +
+         IC2              10
+         IC2              30
+         IC3              3
+         JP3              1
+         JP5              2
+         JP6              13
+         LCDDATA          5
+         R1               3
+         R10              3
+         R2               3
+         R3               3
+         R31              E
+         R32              A
+         R33              3
+         R37              1
+         R38              3
+         R4               3
+         R5               3
+         R6               3
+         R7               3
+         R8               3
+         R9               3
+         RESET_RESISTENCE 1
+
